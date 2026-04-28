@@ -1,1 +1,2 @@
-These are my study notes for IELTS preparation, along with the source material I am currently using.[每日英语听写 Daily English Dictation 1-400](https://www.bilibili.com/video/BV1U7411a7xG?vd_source=e5ec6153142cd56468f2c45b7eb9666e)
+These are my study notes for IELTS preparation, along with the source material I am currently using.[每日英语听写 Daily English Dictation 1-400](https://www.bilibili.com/video/BV1U7411a7xG?vd_source=e5ec6153142cd56468f2c45b7eb9666e)  
+[雅思作文]()
