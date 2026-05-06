@@ -7,6 +7,7 @@ These are my study notes for IELTS preparation, along with the source material I
 ### 2.A Memorable Experience/Place  
 ### 3.Education & Career  
 ### 4.Education & Globalization  
+[DAY11_The Evolution of Education in the Digital Age](https://github.com/xunxun1010/IELTS/blob/main/notes/day11_%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3%E4%B8%8B%E6%95%99%E8%82%B2.md)
 ### 5.Health & Modern Lifestyle  
 ### 6.Crime & Punishment  
 [DAY1_监狱的改造功能 (Rehabilitation of Offenders)](https://github.com/xunxun1010/IELTS/blob/main/notes/day1_%E7%8A%AF%E7%BD%AA%E4%B8%8E%E6%83%A9%E7%BD%9A%20(Crime%20%26%20Punishment).md)
