@@ -9,6 +9,7 @@ These are my study notes for IELTS preparation, along with the source material I
 ### 4.Education & Globalization  
 ### 5.Health & Modern Lifestyle  
 ### 6.Crime & Punishment  
+[DAY1_监狱的改造功能 (Rehabilitation of Offenders)](https://github.com/xunxun1010/IELTS/blob/main/notes/day1_%E7%8A%AF%E7%BD%AA%E4%B8%8E%E6%83%A9%E7%BD%9A%20(Crime%20%26%20Punishment).md)
 ### 7.Government Investments  
 ### 8.Culture & Tradition  
 ### 9.Animal Rights & Nature  
