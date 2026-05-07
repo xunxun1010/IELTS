@@ -1,7 +1,7 @@
 必备语段：监狱的改造功能 (Rehabilitation of Offenders)  
 "While strict punishment is necessary to deter potential offenders, I believe that the primary function of prisons should be rehabilitation. Many inmates resort to crime due to a lack of education or employable skills. If the penal system provides vocational training and psychological counseling, offenders can successfully reintegrate into society upon release. This approach not only reduces the recidivism rate but also transforms former criminals into productive citizens, which ultimately ensures long-term social stability."
 
-中文释义：虽然严厉的惩罚对于震慑潜在的罪犯是必要的，但我认为监狱的主要功能应该是改造。许多囚犯由于缺乏教育或就业技能而走上犯罪道路。如果刑罚系统提供职业培训和心理咨询，罪犯在获释后就能成功地重新融入社会。这种方法不仅降低了累犯率，而且将前科犯转变为有生产力的公民，最终确保了长期的社会稳定。
+中文释义：虽然严厉的惩罚对于震慑潜在的罪犯是必要的，但我认为监狱的主要功能应该是改造。许多囚犯由于缺乏教育或就业技能而走上犯罪道路。如果刑罚系统提供职业培训和心理咨询，罪犯在获释后就能成功地重新融入社会。这种方法不仅降低了累犯率，而且将前科犯转变为有生产力的公民，最终确保了长期的社会稳定。  
 deter potential offenders：震慑潜在的罪犯 (高级表达，deter比stop/prevent更具专业性)
 
 resort to crime：诉诸犯罪 / 走上犯罪道路 (常用搭配 resort to... 表示在别无选择的情况下采取某种负面手段)
