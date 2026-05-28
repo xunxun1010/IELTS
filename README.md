@@ -24,4 +24,4 @@ These are my study notes for IELTS preparation, along with the source material I
 4.[最新Simon全100集前雅思考官Simon中文字幕版网课视频（听力、口语、阅读、写作）附PDF讲义 Simon雅思写作观点库，大小作文满分范文](https://www.bilibili.com/video/BV16EK3zhEGM?vd_source=e5ec6153142cd56468f2c45b7eb9666e)
 5.[每日英语听写 Daily English Dictation 1-400](https://www.bilibili.com/video/BV1U7411a7xG?vd_source=e5ec6153142cd56468f2c45b7eb9666e)  
 6.[雅思作文]()  
-7.[每日听写短文](【经济学人3月|干货-CATTI一笔雅思8.5的Up主】https://www.bilibili.com/video/BV1QE411g7o7?vd_source=e5ec6153142cd56468f2c45b7eb9666e)
+7.[每日听写短文](https://www.bilibili.com/video/BV1QE411g7o7?vd_source=e5ec6153142cd56468f2c45b7eb9666e)
